@@ -26,8 +26,7 @@ This is a link to one of my widgets: `http://widgets.grooveshark.com/finished?wi
 = What do I need for the Grooveshark Widget? =
 The requirements to use the Grooveshark Widget are:
 * Standard Wordpress requirements for version 2.8.
-* Javascript enabled in browser.
-* Flash version 9.0.0 or higher needed to play Grooveshark widgets.
+* Flash version 9.0.0 or higher.
 
 == Screenshots ==
 1. Grooveshark-Widget Administration Panel
