@@ -1,0 +1,35 @@
+div#grooveshark-widget-leftside {
+    width:220px;
+    padding:0 10px;
+    float:left;
+}
+
+div#grooveshark-widget-rightside {
+    width:240px;
+    padding:0 10px;
+    float:left;
+}
+
+div#grooveshark-widget-rightside em {
+    font-size:10px;
+    color: #666666;
+}
+
+
+div#grooveshark-widget-footer {
+    padding-top:20px;
+    text-align:center;
+    color:#21759b;
+    clear:both;
+}
+
+#grooveshark-widget-leftside h4,
+#grooveshark-widget-rightside h4,
+#grooveshark-widget-footer h4 {
+    margin-bottom:5px;
+}
+
+.small-input {
+    width:30%;
+}
+
