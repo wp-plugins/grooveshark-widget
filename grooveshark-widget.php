@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Grooveshark Sidebar Widget
+ * Plugin Name: Grooveshark Widget
  * Plugin URI: http://www.7le.ro
- * Description: Grooveshark Sidebar Widget provides you a simple way to integrate <a href="http://listen.grooveshark.com/" target="_blank">Grooveshark</a> <a href="http://widgets.grooveshark.com/" target="_blank">Widget</a> player into your <a href="http://wordpress.org/" target="_blank">Wordpress</a> sidebar.
+ * Description: Grooveshark Widget offers you a simple way to integrate <a href="http://listen.grooveshark.com/" target="_blank">Grooveshark</a> <a href="http://widgets.grooveshark.com/" target="_blank">Widget</a> player into your <a href="http://wordpress.org/" target="_blank">Wordpress</a> sidebar.
  * Version: 1.0
  * Author: Raul MATEI
  * Author URI: http://www.7le.ro
