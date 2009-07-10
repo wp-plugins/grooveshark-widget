@@ -2,7 +2,7 @@
 Contributors: Raul MATEI (aka 7le)
 Tags: widget, sidebar, grooveshark, music, play
 Requires at least: 2.8
-Tested up to: 2.8
+Tested up to: 2.8.1
 Stable tag: 1.0
 
 This widget offers you a simple way to integrate Grooveshark Widget into your Wordpress sidebar.
@@ -11,8 +11,12 @@ This widget offers you a simple way to integrate Grooveshark Widget into your Wo
 This widget offers you a simple way to integrate Grooveshark Widget into your Wordpress sidebar.
 
 == Installation ==
-1. Upload `/grooveshark-widget/` folder and its contents to the `/wp-content/plugins/`.
-2. Press on the "Save" button to refresh the widget preview, if you like it go to your home page and enjoy it.
+1. Download the grooveshark-widget.1.0.zip and extract it to your local machine.
+2. Upload `/grooveshark-widget/` folder and its contents to the `/wp-content/plugins/`, be sure to upload the top-level folder not just its contents, otherwise it will not work as it should.
+3. Activate the plugin through the "Plugins" menu in WordPress.
+4. Go to "Appearance" >> "Widgets" and from "Available Widgets" panel add the Grooveshark Widget to your sidebar.
+5. Open the widget panel and fill in all the fields.
+6. Press on the "Save" button to refresh the widget preview, if you like the results go to your home page and enjoy it.
 
 == Frequently Asked Questions ==
 = How do I find my Grooveshark Widget ID? =
@@ -25,6 +29,7 @@ This is a link to one of my widgets: `http://widgets.grooveshark.com/finished?wi
 
 = What do I need for the Grooveshark Widget? =
 The requirements to use the Grooveshark Widget are:
+
 * Standard Wordpress requirements for version 2.8.
 * Flash version 9.0.0 or higher.
 
