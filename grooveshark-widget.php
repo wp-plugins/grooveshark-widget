@@ -8,7 +8,7 @@
  * Author URI: http://www.7le.ro
  * Changelog:
  * v1.0   - [2009/07/08] Grooveshark Widget public release
- * v1.0.1 - [2009/07/13] markup of <embed> HTML element has been corrected
+ * v1.0.1 - [2009/07/13] markup of the <embed> HTML element has been corrected
 */
 
 /*
