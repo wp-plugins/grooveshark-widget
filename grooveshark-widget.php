@@ -3,11 +3,12 @@
  * Plugin Name: Grooveshark Widget
  * Plugin URI: http://www.7le.ro
  * Description: Grooveshark Widget offers you a simple way to integrate <a href="http://listen.grooveshark.com/" target="_blank">Grooveshark</a> <a href="http://widgets.grooveshark.com/" target="_blank">Widget</a> player into your <a href="http://wordpress.org/" target="_blank">Wordpress</a> sidebar.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Raul MATEI
  * Author URI: http://www.7le.ro
  * Changelog:
- * v1.0 - [2009/07/08] Grooveshark Widget public release
+ * v1.0   - [2009/07/08] Grooveshark Widget public release
+ * v1.0.1 - [2009/07/13] markup of <embed> HTML element has been corrected
 */
 
 /*
@@ -71,7 +72,7 @@ function widget_build($widgetid, $width, $height, $colortheme, $autoplay) {
             <param name=\"wmode\" value=\"window\" />
             <param name=\"allowScriptAccess\" value=\"always\" />
             <param name=\"flashvars\" value=\"hostname=cowbell.grooveshark.com&amp;widgetID=" . $widgetid . "&amp;style=metal" . $wcolors . "&amp;p=". $autoplay . "\" />
-            <embed src=\"http://listen.grooveshark.com/widget.swf\" type=\"application/x-shockwave-flash\" width=\"" . $width . "\" height=\"" . $height . "\" flashvars=\"hostname=cowbell.grooveshark.com&amp;widgetID=" . $widgetid . "&amp;style=metal" . $wcolors . "&amp;p=". $autoplay . "\" allowScriptAccess=\"always\" wmode=\"window\"></embed>
+            <embed src=\"http://listen.grooveshark.com/widget.swf\" type=\"application/x-shockwave-flash\" width=\"" . $width . "\" height=\"" . $height . "\" flashvars=\"hostname=cowbell.grooveshark.com&amp;widgetID=" . $widgetid . "&amp;style=metal" . $wcolors . "&amp;p=". $autoplay . "\" allowScriptAccess=\"always\" wmode=\"window\" />
         </object>";
     return $player;
 }
