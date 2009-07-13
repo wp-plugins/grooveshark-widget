@@ -3,7 +3,7 @@ Contributors: Raul MATEI (aka 7le)
 Tags: widget, sidebar, grooveshark, music, play
 Requires at least: 2.8
 Tested up to: 2.8.1
-Stable tag: trunk
+Stable tag: 1.0
 
 This widget offers you a simple way to integrate Grooveshark Widget into your Wordpress sidebar.
 
